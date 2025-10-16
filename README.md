@@ -10,6 +10,6 @@ The goal of this project is to successfully:
 3.  Install and configure NGINX to serve a custom `index.html` file on the default HTTP port (80).
 
 ## 🌐 Server Details
-* **Server IP/Domain:** [Will be updated after deployment]
+* **Server IP/Domain:** http://3.87.238.10/
 
 
